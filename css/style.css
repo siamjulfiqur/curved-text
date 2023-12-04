@@ -1,0 +1,68 @@
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+/* clo */
+.clo{
+  color: #3fafee;
+}
+
+
+/* text-5 */
+#nav
+{
+    margin: 0.375em 0.0em;
+    width:  100%;
+}
+
+#nav ul
+{
+    width:      100%;
+    text-align: center;
+}
+
+#nav li
+{
+    display: inline;
+}
+
+#nav li a
+{
+    margin:           0.375em 0.25em;
+    padding:          0.25em 0.5em;
+    display:          inline-block;
+    font:             normal normal normal 1.0em/1.5 'Open Sans Light', sans-serif;
+    text-align:       left;
+    text-decoration:  none;
+    white-space:      no-wrap;
+    color:            #ffffff;
+    background-color: #000000;
+}
+
+#text5
+{
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+
+#text5 span
+{
+    border: 1px dashed #7ec9f4;
+}
+
+#text5 .letter1,
+#text5 .letter3,
+#text5 .letter8,
+#text5 .letter15
+{
+    padding:          0.25em;
+    border:           none !important;
+    font-size:        1.5em;
+    color:            #ffffff;
+    background-color: #7ec9f4;
+}
